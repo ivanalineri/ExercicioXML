@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExercicioDeLayout</string>
+    <string name="texto_center">Texto center</string>
+    <string name="texto_center_left">Texto center/left</string>
+    <string name="texto_b">Texto bottom/right</string>
+    <string name="texto_tc">Texto top/center</string>
+    <string name="texto_bt">Texto bottom</string>
+    <string name="enviar">Enviar</string>
+</resources>
